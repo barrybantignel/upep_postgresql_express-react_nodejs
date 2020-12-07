@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Gestion de stockage de denrées en Full-stack, pour le Front avec React, Node, le Middleware Express et Cors; Pour le back j'utilise la base de donnees postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrybantignel/upep_postgresql_express-react_nodejs.git"
+  },
+
+  "author": "barry boubacar (barrybantignel@gmail.com)",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/barrybantignel/upep_postgresql_express-react_nodejs/issues"
+  },
+  "homepage": "https://barrybantignel.github.io/upep_postgresql_express-react_nodejs",
+
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.3.3"
+  }
+}
